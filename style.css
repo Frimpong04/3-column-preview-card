@@ -55,19 +55,30 @@ body {
     background-color:var(--sedan-bg);
 }
 
+.sedans button {
+    color:var(--sedan-bg);
+}
 .card p {
     font-family:'Lexend Deca', sans-serif;
     font-size:1.5rem;
     color:var(--text-color);
     line-height:1.6;
+    margin-bottom:6rem;
 }
 .suvs {
     background-color:var(--suv-bg);
+}
 
+.suvs button {
+    color:var(--suv-bg);
 }
 
 .luxury {
     background-color:var(--luxury-bg);
+}
+
+.luxury button {
+    color: var(--luxury-bg);
 }
 
 button {
